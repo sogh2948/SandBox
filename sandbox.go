@@ -1,4 +1,4 @@
-package sandbox
+package SandBox
 
 import (
 	"math/rand"
